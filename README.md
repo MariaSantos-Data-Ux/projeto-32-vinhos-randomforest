@@ -79,3 +79,4 @@ A combinação de **SMOTE + class_weight** mostrou-se a estratégia mais eficaz,
 
 ## Autoria  
 Projeto desenvolvido por **Maria Santos**, como parte da atividade do curso **Ciências de Dados - EBAC - Módulo 32**.
+

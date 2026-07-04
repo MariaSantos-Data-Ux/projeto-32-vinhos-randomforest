@@ -37,7 +37,7 @@ A base utilizada é o **Wine Quality Dataset (red wine)**, amplamente usado em e
 
 ---
 
-##  Resultados
+## Resultados
 - **Modelo inicial**: acurácia ≈ 64%, mas F1-score nulo para classes raras.  
 - **Após Random Search**: melhora nas classes centrais, mas raras ainda ignoradas.  
 - **SMOTE + Class Weights**:
@@ -53,7 +53,7 @@ A combinação de **SMOTE + class_weight** mostrou-se a estratégia mais eficaz,
 
 ---
 
-##  Tecnologias utilizadas
+## Tecnologias utilizadas
 - Python 3.x  
 - Pandas, NumPy  
 - Scikit-learn  

@@ -1,0 +1,27 @@
+# Arquivos de cache e compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações locais
+.env
+*.env
+
+# Notebooks temporários
+.ipynb_checkpoints/
+
+# Dados e saídas
+*.csv
+*.xlsx
+*.pdf
+*.png
+*.jpg
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
